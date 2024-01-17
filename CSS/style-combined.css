@@ -1,0 +1,28 @@
+/* @import url("modern-normalize.css"); */
+@import url("../CSS/Components/header.css");
+@import url("../CSS/Components/hero.css");
+@import url("../CSS/Components/about.css");
+@import url("../CSS/Components/featured.css");
+@import url("../CSS/Components/work.css");
+@import url("../CSS/Components/contact.css");
+@import url("../CSS/Components/footer.css");
+@import url("../CSS/Components/mobile-nav.css");
+@import url("../CSS/Components/utils.css");
+
+/* xs */
+/* @media (min-width: 475px) {} */
+
+/* sm */
+/* @media (min-width: 640px) {} */
+
+/* md */
+/* @media (min-width: 768px) {} */
+
+/* lg */
+/* @media (min-width: 1024px) {} */
+
+/* xl */
+/* @media (min-width: 1280px) {} */
+
+/* 2xl */
+/* @media (min-width: 1536px) {} */
